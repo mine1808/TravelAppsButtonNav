@@ -10,7 +10,7 @@
         <item name="fontFamily">@font/poppinsbold</item>
     </style>
 
-    <style name="Theme.TravelAppsButtonNav." parent="Base.Theme.TravelAppsButtonNav">
+    <style name="Theme.TravelAppsButtonNav" parent="Base.Theme.TravelAppsButtonNav">
         <item name="toolbarStyle">@color/blue</item>
     </style>
 
